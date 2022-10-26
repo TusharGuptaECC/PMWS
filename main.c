@@ -1,5 +1,5 @@
 /*
-	* Author: Tushar Gupta
+	* Author: Tushar Gupta(SonalKunj).
 	* Project: Plant Monitoring and Watering System (PMWS).
 */
 
