@@ -1,5 +1,5 @@
 # PMWS - Plant Monitoring & Watering System
-PMWS constantly watches the temperature and humidity of the plant's environment and accordingly supplies the water.
+PMWS constantly monitors the temperature and humidity of the plant's environment and accordingly supplies the water.
 According to the current settings, it wakes up every 10 minutes takes the readings, and decides whether to water plants or not.
 The duration of the water supply is also decided by the system itself.
 
